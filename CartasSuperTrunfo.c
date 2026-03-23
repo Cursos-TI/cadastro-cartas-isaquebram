@@ -58,7 +58,7 @@ int main() {
     printf ("Numero depontos turisticos : ");
     scanf("%d" , &pontos2);
 
-  // Área para exibição dos dados da cidad
+  // Área para exibição dos dados da cidade
   //  SAÍDA 
   printf("\n\n>>>>> CARTAS CADASTRADAS <<<<\n");
 
